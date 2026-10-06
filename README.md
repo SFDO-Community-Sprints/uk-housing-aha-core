@@ -1,4 +1,4 @@
-# uk-housing-foundation-schema
+# uk-housing-aha-core
 
 This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
 
